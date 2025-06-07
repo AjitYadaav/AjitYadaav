@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/ajityadaav" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit yadav" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/ajityadaav](https://www.linkedin.com/in/ajityadaav/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajit yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/ajit.yadav_3.14" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajit.yadav_3.14" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@Code_Glimpse" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="code glimpse" height="30" width="40" /></a>
 </p>
