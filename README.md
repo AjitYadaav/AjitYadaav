@@ -1,41 +1,49 @@
-## 👨‍💻 About Me
+## About Me
 
-* 🎓 B.Tech CSE Student at **NIT Warangal**
-* 📊 Passionate about **Data Science, Machine Learning and AI**
-* 🌱 Currently learning **Machine Learning & Deep Learning**
+I am a B.Tech Computer Science student at **NIT Warangal** with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
+I enjoy building projects that help me understand the mathematical and practical foundations of machine learning algorithms.
+
+Currently, I am focused on strengthening my understanding of **machine learning algorithms, data analysis, and model implementation from scratch**.
 
 ---
 
-## 🚀 Skills
+## Tools and Technologies
+
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
 </p>
 
----
-
-## 📊 Current Focus
-
-* Machine Learning Algorithms
-* Data Science Projects
-* Implementing ML **from scratch**
-* Building a strong **Data Science portfolio**
+Core Libraries:
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
 
 ---
 
-## 🌿 Beyond Coding
+## Current Focus
 
-Apart from technology and data science, I believe in maintaining a balanced lifestyle.
-
-* 🏃‍♂️ Maintaining **physical fitness and healthy habits**
-* 📚 Reading about **self-growth and learning**
-* ✍️ Writing blogs about **life lessons, growth, and learning**
-* 🧠 Constantly improving both **mind and body**
-
-I believe that **a healthy mind and body help build better focus, discipline, and creativity in problem solving.**
+* Studying core **Machine Learning algorithms**
+* Building **Data Science projects**
+* Implementing machine learning algorithms **from scratch**
+* Developing a strong **Data Science portfolio**
 
 ---
 
-## 🌐 Connect With Me
+## Interests
+
+Outside of technology, I value maintaining a balanced lifestyle.
+
+* Maintaining physical fitness and healthy habits
+* Reading about personal development and learning
+* Writing blogs on growth, learning, and life experiences
+* Continuous improvement in both professional and personal domains
+
+I believe that a healthy mind and body contribute significantly to better focus, discipline, and problem-solving ability.
+
+---
+
+## Connect With Me
 
 <p align="center">
 
@@ -51,11 +59,9 @@ I believe that **a healthy mind and body help build better focus, discipline, an
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ajityadaav&show_icons=true&theme=tokyonight">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajityadaav&theme=tokyonight">
 
@@ -64,5 +70,5 @@ I believe that **a healthy mind and body help build better focus, discipline, an
 ---
 
 <p align="center">
-✨ "Consistency beats talent when talent doesn't work hard." ✨
+"Consistency beats talent when talent does not work hard."
 </p>
