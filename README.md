@@ -1,32 +1,50 @@
 ## About Me
 
-I am a B.Tech Computer Science student at **NIT Warangal** with a strong interest in **Data Science, Machine Learning, and Artificial Intelligence**.
-I enjoy building projects that help me understand the mathematical and practical foundations of machine learning algorithms.
+I am a B.Tech Computer Science student at **NIT Warangal** with a strong interest in **Data Science, Analytics, Machine Learning, and Artificial Intelligence**.  
+I enjoy building projects that help me understand both the **mathematical foundations** and **real-world applications** of data-driven systems.
 
-Currently, I am focused on strengthening my understanding of **machine learning algorithms, data analysis, and model implementation from scratch**.
+Currently, I am focused on strengthening my skills in **SQL, PostgreSQL, data analysis, machine learning algorithms, and model implementation from scratch**.
 
 ---
 
 ## Tools and Technologies
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,git,github,linux,vscode" />
+<img src="https://skillicons.dev/icons?i=python,cpp,postgresql,mysql,git,github,linux,vscode" />
 </p>
 
-Core Libraries:
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
+### Core Skills
+- SQL
+- PostgreSQL
+- Python
+- Data Analysis
+- Machine Learning
+- Git & GitHub
+
+### Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
 
 ---
 
 ## Current Focus
 
-* Studying core **Machine Learning algorithms**
-* Building **Data Science projects**
-* Implementing machine learning algorithms **from scratch**
-* Developing a strong **Data Science portfolio**
+- Strengthening **SQL and PostgreSQL** for analytics roles
+- Building **Data Science and Data Analyst projects**
+- Implementing **Machine Learning algorithms from scratch**
+- Improving **problem-solving and analytical thinking**
+- Developing a strong **GitHub portfolio**
+
+---
+
+## Featured Projects
+
+- **SQL Retail Sales Analysis** – Data cleaning, business queries, customer insights using PostgreSQL  
+- **Exploratory Data Analysis** – Customer purchasing behavior and trend analysis  
+- **Logistic Regression From Scratch** – Understanding ML foundations mathematically  
+- **Simple Linear Regression** – Core regression concepts implementation  
 
 ---
 
@@ -34,12 +52,12 @@ Core Libraries:
 
 Outside of technology, I value maintaining a balanced lifestyle.
 
-* Maintaining physical fitness and healthy habits
-* Reading about personal development and learning
-* Writing blogs on growth, learning, and life experiences
-* Continuous improvement in both professional and personal domains
+- Physical fitness and healthy habits  
+- Reading about personal development and learning  
+- Writing blogs on growth, learning, and life experiences  
+- Continuous self-improvement in personal and professional life  
 
-I believe that a healthy mind and body contribute significantly to better focus, discipline, and problem-solving ability.
+I believe a healthy mind and body contribute significantly to focus, discipline, and problem-solving ability.
 
 ---
 
@@ -62,13 +80,11 @@ I believe that a healthy mind and body contribute significantly to better focus,
 ## GitHub Statistics
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajityadaav&theme=tokyonight">
-
 </p>
 
 ---
 
 <p align="center">
-"Consistency beats talent when talent does not work hard."
+"Consistency compounds into excellence."
 </p>
