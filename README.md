@@ -2,9 +2,20 @@
 
 B.Tech Computer Science student at **NIT Warangal** with interests in **Machine Learning, Data Science, Artificial Intelligence, Analytics, and Generative AI**.
 
-I enjoy understanding the mathematical foundations of machine learning algorithms and building practical projects that solve real-world problems.
+Currently learning the mathematical foundations of machine learning, building projects to strengthen my understanding, and exploring real-world applications through hands-on practice.
 
 ---
+
+## Experience
+
+### <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Axis_Bank_logo.svg" width="45"> Business Intelligence Intern — Axis Bank
+
+**May 2026 – July 2026**
+
+- Worked in the **Business Intelligence Unit (BIU)** on customer segmentation for retail lending.
+- Used **PySpark SQL, Hive, and Python** to prepare and analyze banking datasets.
+- Performed feature engineering, data preprocessing, and K-Means clustering.
+- Contributed to data-driven customer segmentation for business insights.
 
 ## Current Focus
 
@@ -33,13 +44,8 @@ I enjoy understanding the mathematical foundations of machine learning algorithm
 ---
 
 ## Connect
-
-<p align="center">
-  <a href="https://github.com/AjitYadaav">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
   <a href="https://www.linkedin.com/in/ajityadaav/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+  
+
